@@ -17,3 +17,6 @@ Below is a list of programs and projects completed throughout the 100-day challe
 
 005 - Condicionais, tipos e variáveis
 
+006 - Bibliotecas Python
+
+
